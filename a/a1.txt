@@ -1,2 +1,3 @@
-This is important.We need to know python now a days.
+This is important.We need to know python now a days. 
+We also need to know how to use git command and the  integration of git command with the github website.
 
